@@ -1,0 +1,80 @@
+site_name: '悟空宝盒'
+site_description: 悟空宝盒
+copyright: Copyright © 2020 rwplus
+
+
+theme:
+  name: material
+  nav_style: light
+  highlightjs: true
+  logo: assets/wukongboxwhite@128x128.png
+  favicon: assets/wukongboxwhite@128x128.png
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+  language: zh
+  features:
+    - tabs
+nav:
+  - V4:
+    - V4/WKB基础操作手册.md
+    - V4/000.md
+    - V4/010.md
+    - V4/020.md
+    - V4/030.md
+    - V4/040.md
+    - V4/050.md
+    - V4/060.md
+    - V4/070.md
+    - V4/080.md
+    - V4/090.md
+    - V4/110.md
+  - V3:
+    - V3/01_quick-start.md
+    - V3/02_company-mgmt.md
+    - V3/05_office-assets.md
+    - V3/06_space-service.md
+    - V3/07_team-mgmt.md
+    - V3/08_finance-mgmt.md
+    - V3/09_community-mgmt.md
+    - V3/99_FAQ.md
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.highlight:
+      use_pygments: true
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets
+  - attr_list
+  - toc:
+      permalink: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://twitter.com/squidfunk
+      name: RWPLUS
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:weeknd.su@gmail.com
+      name: contactUs
