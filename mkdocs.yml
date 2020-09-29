@@ -32,15 +32,6 @@ nav:
     - V4/080.md
     - V4/090.md
     - V4/110.md
-  - V3:
-    - V3/01_quick-start.md
-    - V3/02_company-mgmt.md
-    - V3/05_office-assets.md
-    - V3/06_space-service.md
-    - V3/07_team-mgmt.md
-    - V3/08_finance-mgmt.md
-    - V3/09_community-mgmt.md
-    - V3/99_FAQ.md
 markdown_extensions:
   - admonition
   - pymdownx.tabbed
