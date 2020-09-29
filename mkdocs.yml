@@ -19,7 +19,7 @@ theme:
   features:
     - tabs
 nav:
-  -开启宝盒
+  -开启宝盒:
     - V4/WKB基础操作手册.md
   - WKB运营端V4:
     - V4/000.md
