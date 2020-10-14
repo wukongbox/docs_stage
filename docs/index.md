@@ -1,1 +1,1 @@
-<center><p>![wkbpng](./assets/wkbpng.png)</p></center>
+<center><p>![](assets/wkbpng.png)</p></center>
