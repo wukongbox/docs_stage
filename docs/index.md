@@ -1,1 +1,3 @@
-<div align=center justify=center> ![wkbpng](wkbpng.png)</div>
+<div style="align: center;justify: center">
+  <img src="wkbpng.png"/>
+</div>
