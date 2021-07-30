@@ -33,6 +33,13 @@ nav:
     - V4/080.md
   - 移动端配置:
     - V4/210.md
+    - V4/211.md
+    - V4/212.md
+    - V4/213.md
+    - V4/214.md
+    - V4/215.md
+    - V4/216.md
+    - V4/217.md
 markdown_extensions:
   - admonition
   - pymdownx.tabbed
